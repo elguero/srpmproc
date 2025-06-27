@@ -1,6 +1,9 @@
 # srpmproc
 Upstream package importer with auto patching. Reference implementation for OpenPatch
 
+> [!WARNING]
+> The Go version of srpmproc is now deprecated. srpmproc v2 is currently at [peridotbuild/pv2](https://github.com/peridotbuild/pv2/tree/main/pv2/srpmproc) and is not backwards compatible.
+
 ## Usage
 ```
 Usage:
